@@ -2,3 +2,4 @@ Nama: Rima Feiy Saputri
 1. Creat directory
 2. Commit pertama
 3. Push pertama
+4. Commit ke dua
